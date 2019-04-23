@@ -13,6 +13,15 @@
                     <key>url</key>  
                     <string>http://183.6.116.151:5091/attachment/201902/27/123.ipa</string>
                 </dict>  
+                <dict>
+                            <key>kind</key>
+                            <string>full-size-image</string>
+                            <key>needs-shine</key>
+                            <true/>
+                            <key>url</key>
+                            <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+                            <string>http://pic.qiantucdn.com/58pic/17/51/16/43k58PICdCq_1024.jpg</string>
+                        </dict>
             </array>  
             <key>metadata</key>  
             <dict>  
